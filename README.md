@@ -64,6 +64,8 @@ The goal of the OpenUAP Project is to scientifically study Unidentified Anomalou
 
 ## 📊 **Project Tiers**
 
+To maximize participation and data collection, low-cost setups are ideal. However, for high-quality data, higher-cost setups are necessary. This is why the project is organized into three tiers.
+
 ### **Tier Essential**
 
 - **Cost**: Low with basic equipment and software tools.
