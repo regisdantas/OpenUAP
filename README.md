@@ -46,190 +46,55 @@ This project supports information sharing in the world's most spoken languages. 
 
 ## 🎯 **Project Goals**
 
+The goal of the OpenUAP Project is to scientifically study Unidentified Anomalous Phenomena (UAPs) by developing tools and methods for detecting, capturing, storing, analyzing, and sharing high-quality and high-reliability data. We aim to create a transparent, open-source platform that enables the collection of reliable data from various sensors, ensuring that conclusions drawn from this data are based on robust scientific methods. Our focus is on advancing the understanding of UAPs through careful, evidence-based research, contributing to the growing body of knowledge about these phenomena while fostering collaboration within the scientific community.
+
+**"It’s not part of government's job to define and tell you the truth; that’s what science is for."**
+**Regis Dantas**
+
 - **Detection and Capture**: develop tools and methods for detecting and capturing UAPs using various sensors high-quality data, including images, videos, and additional sensory information.
 - **Storage**: develop a structured, reliable, and scalable storage system with mechanisms to detect and prevent data alteration or tampering, ensuring data integrity and protection against forgery.
 - **Data Share**: enable secure and controlled data sharing for research purposes, ensuring that data is freely accessible to all.
 - **Analyzis and Discution**: build analysis tools for identifying patterns and correlations.
 - **Scientific transparency**: develop methods for reliable and accurate scientific disclosure.
 
-## 🛠️ **Project Management**
+## 📊 **Project Tiers**
+
+### **Tier Essential**
+
+- **Cost**: Low with basic equipment and software tools.
+- **Requirements**: Basic sensors, minimal hardware setup, and foundational software tools.
+- **Reliability of Data**: Data collected may have limited accuracy and precision, with potential noise or errors.
+- **Multiple Sensors**: Single or few sensors may be used, possibly with limited coverage and lower redundancy.
+- **Quality of Conclusions**: Preliminary conclusions, possibly with limited evidence or low confidence due to data quality and sensor limitations.
+- **Accessibility**: Easy to implement with limited investment; suitable for initial experiments and low-budget setups.
+
+**Example**: Using a single camera or radar sensor to detect UAPs in a small region, resulting in basic data without comprehensive analysis.
 
 ---
 
-## 🏛️ **Project Branches**
+### **Tier Enhanced**
 
-### **1. Detection**
+- **Cost**: Moderate, requiring upgraded equipment and more sophisticated software tools.
+- **Requirements**: A combination of standard and specialized sensors, with more powerful data processing capabilities.
+- **Reliability of Data**: Improved accuracy, but still susceptible to occasional errors or gaps in coverage.
+- **Multiple Sensors**: Use of multiple sensors for enhanced coverage and redundancy, leading to more reliable data.
+- **Quality of Conclusions**: Stronger conclusions, with more substantial evidence and higher confidence, though still open to some uncertainty or refinement.
+- **Accessibility**: Moderately accessible; requires a higher investment, but can still be implemented by research teams with moderate budgets or institutional support.
 
-- **Description**
-
-#### **Tiers**
-
-- **Tier Essential**
-
-##### **Requirements**
-* Goals
-* Hardware
-* Software
-* Security
-* Other
-
-- **Tier Enhanced**
-
-##### **Requirements**
-* Goals
-* Hardware
-* Software
-* Security
-* Other
-
-- **Tier Elite**
-
-##### **Requirements**
-* Goals
-* Hardware
-* Software
-* Security
-* Other
+**Example**: Using a combination of thermal cameras and radar sensors for detecting and capturing UAPs over a wider area, offering higher-quality data but not yet fully optimized.
 
 ---
 
-### **2. Capture**
+### **Tier Elite**
 
-- **Description**
+- **Cost**: High, with cutting-edge technology and comprehensive research tools.
+- **Requirements**: Advanced sensors, high-performance computing systems, and specialized software tools.
+- **Reliability of Data**: Extremely reliable data, with minimal errors or inconsistencies, and highly accurate measurements.
+- **Multiple Sensors**: Integration of multiple sensor types (e.g., radar, thermal, optical, and electromagnetic) for redundancy, optimal coverage, and enhanced data fusion.
+- **Quality of Conclusions**: High-confidence conclusions, backed by robust data, cross-validated results, and deep analysis. Conclusions are scientifically reliable and offer actionable insights.
+- **Accessibility**: High investment required; suitable for research institutions or organizations with substantial funding and resources for complex systems and high-level analysis.
 
-#### **Tiers**
-
-- **Tier Essential**
-
-##### **Requirements**
-* Goals
-* Hardware
-* Software
-* Security
-* Other
-
-- **Tier Enhanced**
-
-##### **Requirements**
-* Goals
-* Hardware
-* Software
-* Security
-* Other
-
-- **Tier Elite**
-
-##### **Requirements**
-* Goals
-* Hardware
-* Software
-* Security
-* Other
-
----
-
-### **3. Storage**
-
-- **Description**
-
-#### **Tiers**
-
-- **Tier Essential**
-
-##### **Requirements**
-* Goals
-* Hardware
-* Software
-* Security
-* Other
-
-- **Tier Enhanced**
-
-##### **Requirements**
-* Goals
-* Hardware
-* Software
-* Security
-* Other
-
-- **Tier Elite**
-
-##### **Requirements**
-* Goals
-* Hardware
-* Software
-* Security
-* Other
-
----
-
-### **4. Sharing**
-
-- **Description**
-
-#### **Tiers**
-
-- **Tier Essential**
-
-##### **Requirements**
-* Goals
-* Hardware
-* Software
-* Security
-* Other
-
-- **Tier Enhanced**
-
-##### **Requirements**
-* Goals
-* Hardware
-* Software
-* Security
-* Other
-
-- **Tier Elite**
-
-##### **Requirements**
-* Goals
-* Hardware
-* Software
-* Security
-* Other
-
----
-
-### **5. Analysis**
-
-- **Description**
-
-#### **Tiers**
-
-- **Tier Essential**
-
-##### **Requirements**
-* Goals
-* Hardware
-* Software
-* Security
-* Other
-
-- **Tier Enhanced**
-
-##### **Requirements**
-* Goals
-* Hardware
-* Software
-* Security
-* Other
-
-- **Tier Elite**
-
-##### **Requirements**
-* Goals
-* Hardware
-* Software
-* Security
-* Other
+**Example**: Using a network of cameras, radar, thermal sensors, and electromagnetic field detectors across multiple locations, with advanced AI-driven analysis, to detect and track UAPs in real time with high accuracy and precision.
 
 ---
 
