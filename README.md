@@ -1,6 +1,6 @@
 # **UAP Data Capture and Analysis Project**
 
-This project aims to develop an open-source system to detect, capture, store, share, and analyze data related to Unidentified Aerial Phenomena (UAP). The goal is to provide a scientific approach to understanding UAPs by combining data from various sensors and advanced analysis tools.
+This project aims to develop an open-source system to detect, capture, store, share, and analyze data related to Unidentified Anomalous Phenomena (UAP). The goal is to provide a **SCIENTIFIC** approach to understanding UAPs by combining reliable data from various sensors and advanced analysis tools.
 
 ---
 
@@ -8,72 +8,178 @@ This project aims to develop an open-source system to detect, capture, store, sh
 
 - **Detect**: Develop tools for detecting UAPs using various sensors and filtering out known objects.
 - **Capture**: Capture high-quality data, including images, videos, and additional sensory information.
-- **Store**: Create a structured and scalable storage system.
+- **Store**: Create a structured, reliable and scalable storage system.
 - **Share**: Allow secure and controlled data sharing for research purposes.
 - **Analyze**: Build analysis tools for identifying patterns and correlations.
 
 ---
 
-## **Requirements**
+## **Project Branches**
 
-### **1. Hardware Requirements**
+### **1. Detection**
 
-- **Cameras**: High-resolution cameras with night vision and infrared capabilities.
-  - *Options*: Raspberry Pi with camera module, industrial-grade thermal cameras.
+- **Description**
 
-- **Sensors**:
-  - **Radar Modules**: Short-range radar (e.g., mmWave sensors).
-  - **Environmental Sensors**: Temperature, humidity, and pressure sensors for additional context.
+#### **Tiers**
 
-- **Edge Devices**: Devices for local processing and real-time decision-making.
-  - *Options*: Raspberry Pi, NVIDIA Jetson Nano, Arduino for lightweight processing.
+- **Tier Essential**
 
-- **Storage Hardware**: SSDs or high-capacity storage for buffering before cloud upload.
+##### **Requirements**
+* Goals
+* Hardware
+* Software
+* Security
+* Other
 
-- **Networking Components**: Reliable connectivity (e.g., Wi-Fi, cellular modems) for data transmission.
+- **Tier Enhanced**
 
----
+##### **Requirements**
+* Goals
+* Hardware
+* Software
+* Security
+* Other
 
-### **2. Software Requirements**
+- **Tier Elite**
 
-- **Operating System**: Linux-based OS for stability and compatibility.
+##### **Requirements**
+* Goals
+* Hardware
+* Software
+* Security
+* Other
 
-- **Detection Software**:
-  - **Machine Learning Frameworks**: TensorFlow, PyTorch, or OpenCV for object detection and classification.
-  - **Custom Triggers**: Algorithms for anomaly detection based on movement, shape, or temperature.
+### **2. Capture**
 
-- **Data Management**:
-  - **Database**: NoSQL (MongoDB) or time-series databases (InfluxDB) for structured metadata storage.
-  - **File Storage**: MinIO or cloud storage solutions like AWS S3, Google Cloud.
+- **Description**
 
-- **User Interface**:
-  - **Dashboard**: Web-based dashboards (e.g., Grafana) for monitoring data.
-  - **APIs**: Public/private APIs for data sharing with external applications.
+#### **Tiers**
 
-- **Automation & Orchestration**:
-  - **Data Syncing Scripts**: Scripts for syncing data to cloud storage.
-  - **Logging and Alerts**: System performance logs and alerts for detection events.
+- **Tier Essential**
 
----
+##### **Requirements**
+* Goals
+* Hardware
+* Software
+* Security
+* Other
 
-### **3. Analysis Requirements**
+- **Tier Enhanced**
 
-- **Data Processing Pipeline**:
-  - **Preprocessing**: Filter low-quality data (e.g., clouds, birds).
-  - **Feature Extraction**: Extract key features like shape, size, velocity.
-  - **Data Enrichment**: Integrate external data (e.g., ADS-B, weather conditions).
+##### **Requirements**
+* Goals
+* Hardware
+* Software
+* Security
+* Other
 
-- **Pattern Recognition and Anomaly Detection**:
-  - **Clustering Algorithms**: Identify similar sightings or patterns by location and time.
-  - **Anomaly Detection**: Models to detect unknown patterns in visual, thermal, or radar data.
+- **Tier Elite**
 
-- **Data Visualization and Reporting**:
-  - **Real-Time Mapping**: Map-based visualization to display sightings and patterns.
-  - **Analytical Reports**: Generate reports to facilitate hypothesis building and exploration.
+##### **Requirements**
+* Goals
+* Hardware
+* Software
+* Security
+* Other
 
-- **Advanced Machine Learning Models**:
-  - **Convolutional Neural Networks (CNNs)**: For image recognition and object classification.
-  - **Time-Series Analysis**: Predictive models to detect trends and recurring patterns.
+### **3. Storege**
+
+- **Description**
+
+#### **Tiers**
+
+- **Tier Essential**
+
+##### **Requirements**
+* Goals
+* Hardware
+* Software
+* Security
+* Other
+
+- **Tier Enhanced**
+
+##### **Requirements**
+* Goals
+* Hardware
+* Software
+* Security
+* Other
+
+- **Tier Elite**
+
+##### **Requirements**
+* Goals
+* Hardware
+* Software
+* Security
+* Other
+
+### **4. Sharing**
+
+- **Description**
+
+#### **Tiers**
+
+- **Tier Essential**
+
+##### **Requirements**
+* Goals
+* Hardware
+* Software
+* Security
+* Other
+
+- **Tier Enhanced**
+
+##### **Requirements**
+* Goals
+* Hardware
+* Software
+* Security
+* Other
+
+- **Tier Elite**
+
+##### **Requirements**
+* Goals
+* Hardware
+* Software
+* Security
+* Other
+
+### **5. Analyzis**
+
+- **Description**
+
+#### **Tiers**
+
+- **Tier Essential**
+
+##### **Requirements**
+* Goals
+* Hardware
+* Software
+* Security
+* Other
+
+- **Tier Enhanced**
+
+##### **Requirements**
+* Goals
+* Hardware
+* Software
+* Security
+* Other
+
+- **Tier Elite**
+
+##### **Requirements**
+* Goals
+* Hardware
+* Software
+* Security
+* Other
 
 ---
 
