@@ -1,7 +1,12 @@
 # **OpenUAP - Data Capture and Analysis Project**
+
+This project aims to develop an open-source system to detect, capture, store, share, and analyze data related to Unidentified Anomalous Phenomena (UAP). The goal is to provide a **SCIENTIFIC** approach to understanding UAPs by combining reliable data from various sensors and advanced analysis tools.
+
 ## Languages:
 
 ---
+
+## Information:
 
 ![License](https://img.shields.io/github/license/regisdantas/OpenUAP)
 
@@ -19,8 +24,6 @@
 ![Forks](https://img.shields.io/github/forks/regisdantas/OpenUAP)
 ![Issues](https://img.shields.io/github/issues/regisdantas/OpenUAP)
 ![Pull Requests](https://img.shields.io/github/issues-pr/regisdantas/OpenUAP)
-
-This project aims to develop an open-source system to detect, capture, store, share, and analyze data related to Unidentified Anomalous Phenomena (UAP). The goal is to provide a **SCIENTIFIC** approach to understanding UAPs by combining reliable data from various sensors and advanced analysis tools.
 
 ---
 
