@@ -48,8 +48,7 @@ This project supports information sharing in the world's most spoken languages. 
 
 The goal of the OpenUAP Project is to scientifically study Unidentified Anomalous Phenomena (UAPs) by developing tools and methods for detecting, capturing, storing, analyzing, and sharing high-quality and high-reliability data. We aim to create a transparent, open-source platform that enables the collection of reliable data from various sensors, ensuring that conclusions drawn from this data are based on robust scientific methods. Our focus is on advancing the understanding of UAPs through careful, evidence-based research, contributing to the growing body of knowledge about these phenomena while fostering collaboration within the scientific community.
 
-# **"It’s not part of government's job to define and tell you the truth; that’s what science is for."**
-# **Regis Dantas**
+# **"It’s not part of government's job to define and tell you the truth; that’s what science is for." - Regis Dantas**
 
 - **Detection and Capture**: develop tools and methods for detecting and capturing UAPs using various sensors high-quality data, including images, videos, and additional sensory information.
 - **Storage**: develop a structured, reliable, and scalable storage system with mechanisms to detect and prevent data alteration or tampering, ensuring data integrity and protection against forgery.
