@@ -2,7 +2,21 @@
 
 This project aims to develop an open-source system to detect, capture, store, share, and analyze data related to Unidentified Anomalous Phenomena (UAP). The goal is to provide a **SCIENTIFIC** approach to understanding UAPs by combining reliable data from various sensors and advanced analysis tools.
 
-## Languages:
+## 🌍 Languages
+
+This project supports information sharing in the world's most spoken languages. Select a language below to translate this page via [Google Translate](https://translate.google.com).
+
+1. 🇬🇧 [English](https://translate.google.com/translate?hl=en&sl=auto&tl=en&u=https://github.com/regisdantas/OpenUAP)
+2. 🇨🇳 [Mandarin Chinese](https://translate.google.com/translate?hl=zh-CN&sl=auto&tl=zh-CN&u=https://github.com/regisdantas/OpenUAP)
+3. 🇮🇳 [Hindi](https://translate.google.com/translate?hl=hi&sl=auto&tl=hi&u=https://github.com/regisdantas/OpenUAP)
+4. 🇪🇸 [Spanish](https://translate.google.com/translate?hl=es&sl=auto&tl=es&u=https://github.com/regisdantas/OpenUAP)
+5. 🇫🇷 [French](https://translate.google.com/translate?hl=fr&sl=auto&tl=fr&u=https://github.com/regisdantas/OpenUAP)
+6. 🇦🇪 [Arabic](https://translate.google.com/translate?hl=ar&sl=auto&tl=ar&u=https://github.com/regisdantas/OpenUAP)
+7. 🇧🇩 [Bengali](https://translate.google.com/translate?hl=bn&sl=auto&tl=bn&u=https://github.com/regisdantas/OpenUAP)
+8. 🇵🇹 [Portuguese](https://translate.google.com/translate?hl=pt&sl=auto&tl=pt&u=https://github.com/regisdantas/OpenUAP)
+9. 🇷🇺 [Russian](https://translate.google.com/translate?hl=ru&sl=auto&tl=ru&u=https://github.com/regisdantas/OpenUAP)
+10. 🇯🇵 [Japanese](https://translate.google.com/translate?hl=ja&sl=auto&tl=ja&u=https://github.com/regisdantas/OpenUAP)
+
 
 ---
 
@@ -27,17 +41,17 @@ This project aims to develop an open-source system to detect, capture, store, sh
 
 ---
 
-For guidelines and community standards, please refer to our [Code of Conduct](./CODE_OF_CONDUCT.md).
+# For guidelines and community standards, please refer to our [Code of Conduct](./CODE_OF_CONDUCT.md).
 
 ---
 
 ## **Project Goals**
 
-- **Detect**: Develop tools for detecting UAPs using various sensors and filtering out known objects.
-- **Capture**: Capture high-quality data, including images, videos, and additional sensory information.
-- **Store**: Create a structured, reliable, and scalable storage system.
-- **Share**: Allow secure and controlled data sharing for research purposes.
-- **Analyze**: Build analysis tools for identifying patterns and correlations.
+- **Detection and Capture**: develop tools and methods for detecting and capturing UAPs using various sensors high-quality data, including images, videos, and additional sensory information.
+- **Storage**: develop a structured, reliable, and scalable storage system with mechanisms to detect and prevent data alteration or tampering, ensuring data integrity and protection against forgery.
+- **Data Share**: enable secure and controlled data sharing for research purposes, ensuring that data is freely accessible to all.
+- **Analyzis and Discution**: build analysis tools for identifying patterns and correlations.
+- **Scientific transparency**: develop methods for reliable and accurate scientific disclosure.
 
 ## **Project Management**
 
