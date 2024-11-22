@@ -9,6 +9,8 @@
 
 * Create schience UFO Influencer verification Badge: Attest the influencer is alignt with Open UAP Code of Conduct.
 
+* Establish official channels on major social media platforms to share information, adhering to the described skepticism and classifications.
+
 # Other sensor ideas:
 
 Thermal Infrared Cameras: These cameras detect heat emissions and can capture temperature variations, helping to identify objects that may not be visible to the naked eye.
