@@ -1,3 +1,12 @@
+# Open Questions
+
+- **Report and Credibility Platform**: How to create a public web platform for UAP reporting and analysis, the platform must allow users to create verified yet anonymous accounts, ensuring credibility while protecting identities? It should enable reporting of UAP news, sightings, and document releases, with all sources and evidence accessible to the public. Users must be able to verify, debunk, and peer-review posts, with a voting system to highlight the most credible content. Posts should be classified by clear tags such as "official document," "alleged hidden document," "ocular report," "speculation," and more, and the platform must strictly accept only physical, material, and scientifically verifiable submissions to maintain rigor and focus. Additionally, posts should be ranked based on criteria such as the number of verified official evidences, the volume and quality of peer reviews, and the overall credibility established by user interactions. Users can also earn a "verified specialty" badge that confirms their expertise in relevant fields such as astronomy, physics, journalism, photography, special effects, or others, adding weight to their contributions and reviews.
+    * How to verify identity?
+    * How to verify specialities?
+    * How to verify evidences?
+
+# Other media
+
 * Create schience UFO Influencer verification Badge: Attest the influencer is alignt with Open UAP Code of Conduct.
 
 # Other sensor ideas:
