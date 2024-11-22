@@ -2,6 +2,10 @@
 
 Thank you for your interest in contributing to the UAP Data Capture and Analysis Project! We welcome contributions from researchers, developers, and enthusiasts who are passionate about advancing the scientific understanding of Unidentified Anomalous Phenomena (UAPs). By contributing, you help us build an open-source platform for detection, analysis, and sharing of UAP data.
 
+## Important 
+
+The subject of UFOs has long been entangled in a web of stigma and misinformation, often perpetuated by societal ridicule and conflated with unscientific or fantastical interpretations. This cultural dismissal appears, in part, to stem from deliberate efforts to discredit serious inquiry into unidentified aerial phenomena (UAP), potentially masking important aspects of the topic. For anyone truly interested in investigating UFOs, it is crucial to maintain a critical and scientific mindset. Avoid falling into the trap of conflating UFO phenomena with spiritual, paranormal, or pseudo-scientific narratives that lack empirical grounding. While personal experiences and anecdotal accounts are often compelling, they should not overshadow verified official reports, declassified documents, and detailed investigations that provide a more objective perspective. The contradictions between civilian testimonies and military declarations should be a focal point of scrutiny rather than sensationalism; they underscore the need for transparency and evidence-based exploration. By dismissing unfounded claims and focusing on measurable, reproducible data, we not only advance the conversation but also shield it from the ridicule that often accompanies fringe theories. A UFO is precisely what it stands for—an unidentified flying object, not an automatic endorsement of extraterrestrial or supernatural origins. A serious and skeptical approach is the only way to separate potential truths from the noise and, ultimately, give this subject the credibility and attention it deserves.
+
 ## 📝 How to Contribute
 
 We encourage contributions in the following areas:
